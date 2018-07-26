@@ -7,3 +7,8 @@ def fizzbuzz(int)
     "Buzz"
   end
 end
+
+puts fizzbuzz(20)
+
+# def fizzbuzz(int)
+#   if int % 15 ==0    #int % 3 ==0 && int % 5 ==0
